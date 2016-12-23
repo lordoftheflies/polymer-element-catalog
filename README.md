@@ -1,5 +1,7 @@
 # Polymer Element Catalog
 
+[![Build Status](http://ci.cherubits.hu/buildStatus/icon?job=Element Catalog)](http://ci.cherubits.hu/job/Element%20Catalog/)
+
 ## Getting Started
 
 To work on the Polymer Elements Catalog, clone the repository.
