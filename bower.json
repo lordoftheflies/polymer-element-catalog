@@ -28,7 +28,8 @@
     "app-router": "blasten/app-router#master",
     "pushstate-anchor": "~0.3.0",
     "color": "~2.5.0",
-    "hydrolysis": "PolymerLabs/hydrolysis#^1.11.0"
+    "hydrolysis": "PolymerLabs/hydrolysis#^1.11.0",
+    "plutonium-elements": "lordoftheflies/plutonium-elements#^1.0.0"
   },
   "resolutions": {
     "firebase": "^2.3.1"

@@ -22,6 +22,13 @@
       "tagline":"Material design elements"
     },
     {
+      "name":"plutonium-elements",
+      "title":"Plutonium Elements",
+      "color":"#ff0000",
+      "symbol":"Pl",
+      "tagline":"Plutonium element catalog."
+    },
+    {
       "name":"google-web-components",
       "title":"Google Web Components",
       "color":"#64B5F6",
